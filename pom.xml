@@ -3,8 +3,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.github.mohankumaraln</groupId>
-        <artifactId>mohan-sfg-beer-works-bom</artifactId>
+        <groupId>com.github.msfg-beer-works</groupId>
+        <artifactId>msfg-beer-works-bom</artifactId>
         <version>1.0.18</version>
     </parent>
 
@@ -62,14 +62,14 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:git@github.com:mohankumaraln/mohan-sfg-brewery-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:mohankumaraln/mohan-sfg-brewery-bom.git</developerConnection>
-        <url>https://github.com/mohankumaraln/mohan-sfg-brewery-bom</url>
+        <connection>scm:git:git@github.com:msfg-beer-works/msfg-brewery-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:msfg-beer-works/msfg-brewery-bom.git</developerConnection>
+        <url>https://github.com/msfg-beer-works/msfg-brewery-bom</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/mohankumaraln/mohan-sfg-brewery-bom/issues</url>
+        <url>https://github.com/msfg-beer-works/msfg-brewery-bom/issues</url>
         <system>GitHub</system>
     </issueManagement>
 </project>
